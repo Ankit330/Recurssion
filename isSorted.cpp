@@ -21,4 +21,5 @@ int main()
         cout << "Array is sorted";
     else
         cout << " Array is not sorted";
+
 }
